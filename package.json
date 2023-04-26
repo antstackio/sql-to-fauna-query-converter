@@ -1,0 +1,23 @@
+{
+  "name": "sql-to-fauna-query-converter",
+  "version": "1.0.0",
+  "description": "Script that generates Fauna Queries from MySQL queries.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antstackio/sql-to-fauna-query-converter.git"
+  },
+  "author": "Vishwas Navada K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antstackio/sql-to-fauna-query-converter/issues"
+  },
+  "homepage": "https://github.com/antstackio/sql-to-fauna-query-converter#readme",
+  "dependencies": {
+    "node-sql-parser": "^4.6.6"
+  }
+}

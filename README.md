@@ -14,7 +14,7 @@ cd sql-to-fauna-query-converter
 npm i
 ```
 
-2. Add your SQL file into `input` directory and run the script using node.
+2. Add your SQL files into `input` directory and run the script using node.
 
 ```sh
 node index.js

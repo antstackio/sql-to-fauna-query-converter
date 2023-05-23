@@ -1,0 +1,2 @@
+departments.create({dept_no: 'd001',dept_name: 'Marketing'})
+departments.create({dept_no: 'd009',dept_name: 'Customer Service'})
